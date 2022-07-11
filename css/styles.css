@@ -86,6 +86,7 @@ body {
 }
 
 .main-btn {
+    font-family:var(--primary-font);
     font-weight: 700;
     font-size: 16px;
     line-height: 1.88;
@@ -158,6 +159,7 @@ background-color: var(--dark-background-color);
 }
 
 .logo-footer {
+    font-family: var(--secondary-font);
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;    
@@ -209,6 +211,7 @@ background-color: var(--dark-background-color);
 }
 
 .btn-portfolio {
+    font-family: var(--primary-font);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.625;
